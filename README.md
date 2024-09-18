@@ -1,6 +1,7 @@
 # cse210-ww-student-template
 This is the starter code for students in the worldwide content version of CSE 210.
 My name is Joseph Budu Larbi and i am taking CSE 210 - Programming with Classes
+Using the commaand line for pushing the changes
 
 This repository contains the starter code for many different projects. They are arranged as follows:
 
